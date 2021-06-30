@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.item-container {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+.display-container {
+  display: flex;
+}
+.display-container-1 {
+  display: flex;
+  justify-content: space-between;
+}
+.item-heading {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  align-self: center;
+  padding-left: 15px;
+}
+.item-description {
+  color: white;
+  padding-left: 25px;
+  text-align: center;
+}
+.icon {
+  height: 50px;
+  width: 50px;
+}

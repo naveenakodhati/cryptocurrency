@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.main-bg-container {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-size: cover;
+  min-height: 100vh;
+  width: 40%;
+}
